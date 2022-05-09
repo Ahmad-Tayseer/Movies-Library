@@ -5,7 +5,7 @@
 ## WRRC
 Add an image of your WRRC here
 
-![WRRC](./WhatsApp%20Image%202022-04-27%20at%201.54.01%20AM.jpeg "WRRC")
+![WRRC](./WhatsApp%20Image%202022-05-09%20at%205.14.58%20PM.jpeg "WRRC")
 
 ## Overview
 
