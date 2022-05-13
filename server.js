@@ -16,7 +16,11 @@ const { handle } = require('express/lib/application');
 
 const { Client } = require('pg');
 // const client = require('pg/lib/native/client');
-const client = new Client(url);
+// const client = new Client(url);
+const client = new pg.Client({
+  connectionString: process.env.DATABASE_URL,
+  ssl: { rejectUnauthorized: false }
+});
 
 const app = express();
 
